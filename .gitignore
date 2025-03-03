@@ -1,0 +1,6 @@
+target/
+.mvn/
+.idea/
+logs/
+*.log
+application.properties
